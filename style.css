@@ -1,5 +1,7 @@
 .thisnav {
-    background-color: transparent;
+    background-color: white;
+    font-size: 32px;
+    font-family: 'Pacifico', cursive;
 }
 
 .centered {
