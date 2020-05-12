@@ -1,0 +1,46 @@
+.thisnav {
+    background-color: transparent;
+}
+
+.centered {
+    position: absolute;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+  }
+
+  .carousel-caption {
+    font-size: 75px;
+    font-family: 'Pacifico', cursive;
+    margin-bottom: 100px;
+    text-shadow:
+    -1px -1px 0 lightgray,  
+     1px -1px 0 lightgray, 
+     -1px 1px 0 lightgray, 
+      1px 1px 0 lightgray;
+  }
+
+
+  .jumbotron {
+      background-image: url("styles/salento_1.jpg");
+      background-size: cover;
+  }
+  .jumbotron-caption {
+    font-size: 75px;
+    color: white;
+    font-family: 'Pacifico', cursive;
+    margin-bottom: 100px;
+    text-shadow:
+    -1px -1px 0 lightgray,  
+     1px -1px 0 lightgray, 
+     -1px 1px 0 lightgray, 
+      1px 1px 0 lightgray;
+  }
+
+  .body-copy {
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+
+  
